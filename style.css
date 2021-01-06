@@ -99,11 +99,12 @@ p{
     width: 30%;
     margin-left: 16%;
     float: left;
-    margin-top: 68px;
+    margin-top: 75px;
 }
 .chat-div h2{
     font-size: 45px;    
-    color: white
+    color: white;
+    margin-top: -5px;
 }
 .single-blog{
     width: 20%;

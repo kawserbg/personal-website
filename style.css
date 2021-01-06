@@ -1,0 +1,156 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+img{
+    max-width: 100%;
+}
+h1{
+    font-size: 50px;
+    margin: 0;
+}
+h2{
+    font-size: 40px;
+    margin: 0;
+    color: #363958;
+}
+p{
+    color: #3E3E3E;
+}
+.top-right-menu{
+    height: 60px;
+    padding-right: 7%;
+}
+.top-right-menu ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    float: right;
+}
+.top-right-menu ul li{
+    display: inline-block;
+}
+.top-right-menu ul li a{
+    text-decoration: none;
+    display: inline-block;
+    color: #3C3C3C;
+    padding: 10px 20px;
+}
+.profile-area{
+    height: 500px;
+    padding: 20px 0;
+}
+.profile-area h1{
+    color: #363958;
+}
+.profile-area h1 span{
+    display: block;
+}
+.half-item{
+    width: 40%;
+    margin-left: 7%;
+    float: left;
+}
+.bg-style-button{   
+    text-decoration: none;
+    background-image: linear-gradient(180deg, #F4955F, #FBD962);
+    font-size: 16px;
+    color: white;
+    padding: 20px 30px;
+    display: inline-block;
+    border-radius: 5px;
+}
+.content-area{
+    height: 500px;
+    padding-top: 100px;
+    padding-left: 7%;
+    padding-bottom: 120px;
+    background-color: #F8F9FC;
+}
+.content-area h2{
+    text-align: center;
+    padding-bottom: 50px;
+    color: #363958;
+}
+.content-area h3{
+    color: #363958;
+}
+.text-highlight{
+    color: #F46060;
+}
+.single-work{
+    width: 25%;
+    margin-left: 2%;
+    float: left;
+    background: white;
+    padding: 20px;
+    box-shadow: 0px 1px 10px 5px rgba(228, 227, 226, 0.7);
+    border-radius: 10px;
+}
+.chat-area{
+    padding: 150px 0;
+    background-image: url(images/footer-bg.png);
+    background-size: 75%;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 200px;
+    text-align: center;
+}
+.chat-div{
+    width: 30%;
+    margin-left: 16%;
+    float: left;
+    margin-top: 68px;
+}
+.chat-div h2{
+    font-size: 45px;    
+    color: white
+}
+.single-blog{
+    width: 20%;
+    float: left;
+    margin-left: 3%;
+    border: 1px solid #2e1a7f;
+    padding: 20px 10px;
+    border-radius: 5px;
+}
+.single-blog img{
+    border-radius: 5px;
+}
+.single-blog h3{
+    margin: 0;
+}
+.date-style{
+    font-size: 12px;
+    border-bottom: 3px solid;
+    border-image: linear-gradient(45deg, #2e1a7f, #826be1);
+    border-image-slice: 1;
+    display: inline-block;
+}
+.read-button{
+    text-decoration: none;
+    background-image: linear-gradient(45deg, #2e1a7f, #826be1);
+    font-size: 12px;
+    color: white;
+    padding: 10px 15px;
+    display: inline-block;
+    border-radius: 5px;
+}
+footer{
+    text-align: center;
+    margin: 50px;
+}
+footer h4{
+    margin: 0;
+    margin: 0;
+    color: #363958;;
+}
+.email{
+    font-size: 50px;
+    font-weight: bold;
+    margin: 0;
+    color: #363958;
+}
+footer img{
+    width: 5%;
+    margin-right: 10px;
+}
